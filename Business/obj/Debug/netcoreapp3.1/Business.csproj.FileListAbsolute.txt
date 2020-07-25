@@ -1,0 +1,14 @@
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\AspNetCoreApps\Udemy-Yavuz Selim KAHRAMAN\NKatmanli\Business\obj\Debug\netcoreapp3.1\Business.pdb
